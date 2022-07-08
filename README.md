@@ -1,1 +1,1 @@
-https://github.com/OverclockerCPU/rsschool-cv.git
+https://github.com/OverclockerCPU/rsschool-cv/blob/gh-pages/cv.md
